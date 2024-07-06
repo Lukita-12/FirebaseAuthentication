@@ -1,2 +1,2 @@
-![](https://github.com/mahdinazmi/Flutter-Firebase-Auth/blob/main/thumbnail.jpg)
+![](https://github.com/Lukita-12/FirebaseAuthentication/blob/main/thumbnail.png)
 
